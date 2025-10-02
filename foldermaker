@@ -1,0 +1,9 @@
+#!/bin/sh
+mkdir boom
+cd boom
+mkdir make
+cd make
+mkdir shell
+cd shell
+echo "{make:code}" > 1.config
+echo "{creator:foldermaker}" > 2.config
