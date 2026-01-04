@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/zsh
 mkdir boom
 cd boom
 mkdir make
